@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="noInternetSTR">تحقق من الإنترنت الخاص بك</string>
+    <string name="runtime_permissions_txt">يرجى منح الأذونات</string>
+    <string name="error_notFound">عذرا, البيانات غير متوفرة الآن</string>
+    <string name="error_internalServer">لسوء الحظ ، هناك خطأ تحت الصيانة حاول مرة أخرى في وقت لاحق </string>
+    <string name="error_timeOut">نفذ الوقت ، يرجى سحب الصفحة لأسفل</string>
+    <string name="error_linkDown">أصبح الرابط غير صالح</string>
+    <string name="changeLanguage">English</string>
+    <string name="humanPartnersSTR">شركاء</string>
+    <string name="name">اسم :</string>
+    <string name="nationality">الجنسية :</string>
+    <string name="nIN">الرقم البطاقة :</string>
+    <string name="commercial_name">الاسم التجاري :</string>
+    <string name="expiryDate">تاريخ الانتهاء :</string>
+    <string name="registrationNumber" >رقم التسجيل</string>
+    <string name="error_Empty" >مطلوب</string>
+
+</resources>

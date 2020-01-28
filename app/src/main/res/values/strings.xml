@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name" translatable="false">Informatique Task</string>
+    <string name="noInternetSTR">check your internet</string>
+    <string name="runtime_permissions_txt">please grant the permissions</string>
+    <string name="error_notFound">Sorry data is\'t available now</string>
+    <string name="error_internalServer">unfortunately , there is error under maintenance try again later </string>
+    <string name="error_timeOut">Time out , please scroll the page </string>
+    <string name="error_linkDown">Link become Invalid </string>
+    <string name="changeLanguage">العربيه</string>
+    <string name="humanPartnersSTR">Human partners</string>
+    <string name="name">Name :</string>
+    <string name="nationality">Nationality "</string>
+    <string name="nIN">National Id :</string>
+    <string name="commercial_name">Commercial name :</string>
+    <string name="expiryDate">Expiry date :</string>
+    <string name="en" translatable="false">English</string>
+    <string name="ar" translatable="false">عربي</string>
+    <string name="registrationNumber" >Registration number</string>
+    <string name="error_Empty" >Required</string>
+</resources>
