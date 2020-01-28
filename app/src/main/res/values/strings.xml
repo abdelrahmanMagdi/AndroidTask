@@ -16,6 +16,7 @@
     <string name="expiryDate">Expiry date :</string>
     <string name="en" translatable="false">English</string>
     <string name="ar" translatable="false">عربي</string>
-    <string name="registrationNumber" >Registration number</string>
-    <string name="error_Empty" >Required</string>
+    <string name="registrationNumber">Registration number</string>
+    <string name="error_Empty">Required</string>
+    <string name="logo" translatable="false">company logo</string>
 </resources>
