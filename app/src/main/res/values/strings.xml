@@ -19,4 +19,5 @@
     <string name="registrationNumber">Registration number</string>
     <string name="error_Empty">Required</string>
     <string name="logo" translatable="false">company logo</string>
+    <string name="hideList">Hide list</string>
 </resources>

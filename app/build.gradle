@@ -7,9 +7,17 @@ android {
         applicationId "com.informatique.informatiquetask"
         minSdkVersion 21
         targetSdkVersion 29
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName "1.2"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    signingConfigs {
+        release {
+            keyAlias 'informatique'
+            keyPassword '123456'
+            storeFile file('/home/aswany/workspaces/AndroidStudioProjects/InformatiqueTask/app/src/informatique.jks')
+            storePassword '123456'
+        }
     }
     buildTypes {
         release {

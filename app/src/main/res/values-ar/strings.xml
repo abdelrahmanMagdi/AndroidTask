@@ -16,5 +16,6 @@
     <string name="expiryDate">تاريخ الانتهاء :</string>
     <string name="registrationNumber" >رقم التسجيل</string>
     <string name="error_Empty" >مطلوب</string>
+    <string name="hideList">إخفاء القائمة</string>
 
 </resources>
