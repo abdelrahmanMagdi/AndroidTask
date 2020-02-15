@@ -5,6 +5,7 @@ import android.os.Build;
 import android.os.StrictMode;
 import android.provider.Settings;
 import android.util.Log;
+import android.widget.Toast;
 
 import com.androidnetworking.AndroidNetworking;
 import com.informatique.informatiquetask.data.SharedPreference;
@@ -26,9 +27,16 @@ public class Application extends android.app.Application {
         //Android Fast Networking
         setAFN();
 
+        setNewData();
+
         //set main values
         setMainValues();
     }
+
+    private void setNewData() {
+        Toast.makeText(this, "Helloo", Toast.LENGTH_SHORT).show();
+    }
+
     //init SharedPreference
     private void setSharedPreferences() {
         Log.d("init", "init SharedPreference");
